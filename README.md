@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on backend systems , AI automation with a focus on clarity, structure, and performance<br><br>👯 Open to collaborate on meaningful software projects<br><br>🤝 learning Artificial Intellegence , CRYPTOGRAPHY <br><br>🌱 Deepening my understanding of Django, SQL, and system-level thinking<br><br>💬 happy to talk about Problem Solving , CRICKET , Clinical Anatomy (Macroscopic) <br><br>⚡ Hobbies : <br><br> Speed Cubing <br><br> Reading <br><br> Cricket <br><br> Poetry <br><br> Pencil Sketching <br><br> Converting Mathematical Problems to Code <br><br> Gymnastics <br><br> BodyBuilding <br><br> Foosball (PRO) <br><br> F1 watching <br><br>
+🔭 Working on backend systems , AI automation with a focus on clarity, structure, and performance<br><br>👯 Open to collaborate on meaningful software projects<br><br>🤝 learning Artificial Intellegence , CRYPTOGRAPHY <br><br>🌱 Deepening my understanding of Django, SQL, and system-level thinking<br><br>💬 happy to talk about Problem Solving , CRICKET , Clinical Anatomy (Macroscopic) <br><br>⚡ Hobbies : <br><br> Speed Cubing <br> Reading <br> Cricket <br> Poetry <br> Pencil Sketching <br> Converting Mathematical Problems to Code <br> Gymnastics <br> BodyBuilding <br> Foosball (PRO) <br> F1 watching <br><br>
 
 
 ## 🌐 Socials:
